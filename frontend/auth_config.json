@@ -1,0 +1,5 @@
+{
+  "domain": "https://paulzhao.us.auth0.com",
+  "clientId": "J6dfBiNDcBE32pxgvexEhPEsFxYWj7De",
+  "audience": "https://auth0-jwt-authorizer"
+}

@@ -1,0 +1,12 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "askAroundMe-backend"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1pz9jfcic7ms1"
+s3_prefix = "askAroundMe-backend"
+region = "us-east-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+parameter_overrides = "QuestionsTableName=\"aamQuestions\" QuestionsTableStreamARN=\"arn:aws:dynamodb:us-east-1:464392538707:table/aamQuestions/stream/2020-07-14T05:33:12.711\" AnswersTableName=\"aamAnswers\" IoTDataEndpoint=\"are5fn6bglvp2-ats.iot.us-east-1.amazonaws.com\" Auth0issuer=\"https://paulzhao.us.auth0.com\""
+
