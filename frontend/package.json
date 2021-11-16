@@ -10,7 +10,7 @@
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.7.0",
     "aws-iot-device-sdk": "^2.2.4",
-    "aws-sdk": "^2.664.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
     "gmaps-heatmap": "^1.0.2",
