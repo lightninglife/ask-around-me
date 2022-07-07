@@ -14,7 +14,7 @@
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
     "gmaps-heatmap": "^1.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ngeohash": "^0.6.3",
     "nodes2ts": "^2.0.0",
     "vue": "^2.6.11",
